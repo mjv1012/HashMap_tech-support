@@ -32,11 +32,13 @@ as ArrayList, HashMap, HashSet, and Random.
 Q24: HashMap is a data structure that stores key-value pairs. The purpose of the Hashmap is to store data values.
 Q25: There are methods like put and get. And yes, you can use the same type for both its parameters.
 Q26: To check how many entries are contained in a map you need to use the size() method.
-Q28: 
-Q29:
-Q30:
-Q31: It will return as null
-Q32:
+Q28: The new value replaces the old value for that key.
+Q29: Both entries are stored seperatly.  
+Q31: It will return as null.
+Q32: map.keySet()
+Q34: The difference between ArrayList and HashSet is that a HashSet avoids duplicates whereas ArrayList allows for there to be duplicates. The similarities are that both of them hold objects and they're part of the Java Collections Framework.
+Q35: HashSet shows only different words in any order, where ArrayList shows all words in order.
+Q36: It might create empty spaces b ut it doesn't really cause many problems.
 
 
 
