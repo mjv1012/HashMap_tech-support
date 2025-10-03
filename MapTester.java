@@ -1,5 +1,4 @@
 import java.util.HashMap;
-
 /**
  * Write a description of class MapTester here.
  *
@@ -9,6 +8,7 @@ import java.util.HashMap;
 public class MapTester
 {
     // instance variables - replace the example below with your own
+    
     private HashMap<String, String> contacts;
 
     /**
@@ -60,5 +60,6 @@ public class MapTester
 
         String number = contacts.get("Lisa Jones");
         System.out.println(number);
+    
     }
 }
