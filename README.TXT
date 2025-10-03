@@ -27,3 +27,24 @@ Then start describing your problem by typing in the terminal window.
 
 The purpose of this project is to demonstrate and study library classes, such 
 as ArrayList, HashMap, HashSet, and Random.
+
+
+Q24: HashMap is a data structure that stores key-value pairs. The purpose of the Hashmap is to store data values.
+Q25: There are methods like put and get. And yes, you can use the same type for both its parameters.
+Q26: To check how many entries are contained in a map you need to use the size() method.
+Q28: 
+Q29:
+Q30:
+Q31: It will return as null
+Q32:
+
+
+
+
+
+
+
+
+
+
+
